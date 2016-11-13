@@ -24,3 +24,4 @@ Things you may want to cover:
 * ...
 # Sound Looper With Stereo Pan On Rails
 Your app description, here.
+# web_audio_practice_rails
